@@ -24,6 +24,11 @@ pip3 install python-dateutil
 ```
 python rescuetime_downloader.py download your_API_KEY 2020-1-1 2020-3-1
 ```
+3. Merge monthly CSV
+```
+python rescuetime_downloader.py merge
+```
+
 
 ## Code
 * Download:
