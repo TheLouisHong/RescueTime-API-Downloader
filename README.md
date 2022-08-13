@@ -1,4 +1,4 @@
-# RescueTime API Downloader
+Download your data using the RescueTime API. Runs in CLI through python and merges using pandas package.
 
 ## Features
 * Download Hourly Activity From RescueTime API In Monthly CSV Chunks
